@@ -1,0 +1,14 @@
+Added Component: Designator=U1(RELAY_SRD-03VDC-SL-C)
+Added Component: Designator=U4(RELAY_SRD-03VDC-SL-C)
+Added Pin To Net: NetName=RY_VCC Pin=U1-A1
+Added Pin To Net: NetName=NetD1_1 Pin=U1-A2
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-COM
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-NC
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-NO
+Added Pin To Net: NetName=RY_VCC Pin=U4-A1
+Added Pin To Net: NetName=NetD3_1 Pin=U4-A2
+Added Pin To Net: NetName=NetJ2_1 Pin=U4-COM
+Added Pin To Net: NetName=NetJ2_2 Pin=U4-NC
+Added Pin To Net: NetName=NetJ2_3 Pin=U4-NO
+Added Member To Class: ClassName=esp-relay Member=Component U1 SRD-05VDC-SL-C
+Added Member To Class: ClassName=esp-relay Member=Component U4 SRD-05VDC-SL-C

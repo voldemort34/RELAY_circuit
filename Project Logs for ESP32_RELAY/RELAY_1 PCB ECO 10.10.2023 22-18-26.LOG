@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetR1_1 Pin=U3-1
+Added Pin To Net: NetName=NetD2_A Pin=U3-2
+Added Pin To Net: NetName=NetR2_2 Pin=U3-3
+Added Pin To Net: NetName=RY_VCC Pin=U3-4
+Added Pin To Net: NetName=NetR3_1 Pin=U6-1
+Added Pin To Net: NetName=NetD4_A Pin=U6-2
+Added Pin To Net: NetName=NetR4_2 Pin=U6-3
+Added Pin To Net: NetName=RY_VCC Pin=U6-4
